@@ -1,0 +1,5 @@
+python==3.7.0
+operator==2.2
+math==3.6
+decimal==2.4
+matplotlib==3.0.1
